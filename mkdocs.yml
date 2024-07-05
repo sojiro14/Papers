@@ -1,0 +1,8 @@
+site_name: 論文要約まとめサイト
+theme:
+  name: material
+  palette: 
+    scheme: default
+    primary: indigo
+    accent: indigo
+  
