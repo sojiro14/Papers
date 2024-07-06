@@ -1,16 +1,10 @@
 # ようこそ
 こちらは公開されている論文を、初学者でも分かりやすい状態に要約し、まとめるサイトです。
 
-## Commands
+## 使い方
+左のサイドバーからジャンルごとの論文を探すか、右上の検索ボックスから論文を探してみてください。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 要約について
+論文の要約には ChatGPT を主とした AI サービスを利用しています。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+AI によるまとめに目を通し、確認したものを掲載していますが、不正確な内容が含まれている可能性がある旨、ご留意ください。
