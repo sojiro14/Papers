@@ -1,22 +1,15 @@
+---
+title: Language models generalize beyond natural proteins
+---
+
 # Title
 Language models generalize beyond natural proteins
 
 ## Links
-- https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1
-- https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1.full.pdf
+- <https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1>
+- <https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1.full.pdf>
 
 ## Summary in Japanese
-### Language models generalize beyond natural proteins
-
-### 目次
-1. [序論](#序論)
-2. [研究の背景](#研究の背景)
-3. [研究目的](#研究目的)
-4. [方法](#方法)
-5. [結果](#結果)
-6. [考察](#考察)
-7. [結論](#結論)
-
 ### 序論
 この論文では、自然界のタンパク質を超えて新しいタンパク質を生成するための言語モデルの一般化能力について調査します。特に、固定バックボーン設計と構造がモデルからサンプリングされる非制約生成の2つのタンパク質設計タスクに焦点を当てます。
 

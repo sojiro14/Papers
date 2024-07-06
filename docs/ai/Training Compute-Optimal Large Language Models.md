@@ -1,20 +1,16 @@
+---
+title: Training Compute-Optimal Large Language Models
+---
+
 # Title
 Training Compute-Optimal Large Language Models
 
 ## Links
-- https://arxiv.org/abs/2203.15556
-- https://arxiv.org/pdf/2203.15556
+- <https://arxiv.org/abs/2203.15556>
+- <https://arxiv.org/pdf/2203.15556>
 
 ## Summary in Japanese
 ### 計算最適な大規模言語モデルの訓練
-
-### 目次
-1. [序論](#序論)
-2. [研究の目的](#研究の目的)
-3. [方法](#方法)
-4. [結果](#結果)
-5. [結論](#結論)
-
 ### 序論
 本論文では、限られた計算予算内で最適な大規模言語モデル（LLM）のサイズとトークン数を調査します。従来のLLMが過剰に訓練されている問題に焦点を当て、モデルサイズとトークン数を同時にスケールする方法を提案します。
 

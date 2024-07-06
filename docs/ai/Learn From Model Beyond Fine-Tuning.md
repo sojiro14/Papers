@@ -1,26 +1,15 @@
+---
+title: Learn From Model Beyond Fine-Tuning
+---
+
 # Title
 Learn From Model Beyond Fine-Tuning: A Survey
 
 ## Links
-- https://arxiv.org/abs/2310.08184
-- https://arxiv.org/pdf/2310.08184
+- <https://arxiv.org/abs/2310.08184>
+- <https://arxiv.org/pdf/2310.08184>
 
 ## Summary in Japanese
-### Learn From Model Beyond Fine-Tuning: A Survey
-
-### 目次
-1. [序論](#序論)
-2. [モデルチューニング](#モデルチューニング)
-   - [ファインチューニング](#ファインチューニング)
-   - [アダプターチューニング](#アダプターチューニング)
-   - [プロンプトチューニング](#プロンプトチューニング)
-   - [インストラクションチューニング](#インストラクションチューニング)
-3. [モデル蒸留](#モデル蒸留)
-4. [モデル再利用](#モデル再利用)
-5. [メタラーニング](#メタラーニング)
-6. [モデル編集](#モデル編集)
-7. [結論](#結論)
-
 ### 序論
 本論文は、従来のファインチューニングを超えた「Learn From Model（LFM）」アプローチについて包括的にレビューします。LFMは、既存の大規模言語モデル（FM）を活用し、新しいタスクへの適応や性能向上を図る手法です。
 

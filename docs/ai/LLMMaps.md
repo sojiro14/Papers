@@ -1,21 +1,16 @@
+---
+title: A Visual Metaphor for Stratified Evaluation of Large Language Models
+---
+
 # Title
 LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models
 
 ## Links
-- https://arxiv.org/abs/2304.00457
-- https://arxiv.org/pdf/2304.00457
+- <https://arxiv.org/abs/2304.00457>
+- <https://arxiv.org/pdf/2304.00457>
 
 ## Summary in Japanese
 ### LLMMaps - 大規模言語モデルの階層的評価のための視覚的メタファー
-
-### 目次
-1. [序論](#序論)
-2. [背景](#背景)
-3. [LLMMapsの設計](#llmmapsの設計)
-4. [知識分野の階層化](#知識分野の階層化)
-5. [実験と結果](#実験と結果)
-6. [結論](#結論)
-
 ### 序論
 この論文では、大規模言語モデル（LLM）の性能を詳細に評価するための新しい視覚化手法「LLMMaps」を提案します。特に、質問応答データセットを用いてLLMの知識能力を評価するための方法を提供します。
 

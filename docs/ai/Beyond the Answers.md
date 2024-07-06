@@ -1,21 +1,15 @@
+---
+title: Reviewing the Rationality of Multiple Choice Question Answering for the Evaluation of Large Language Models
+---
+
 # Title
 Beyond the Answers: Reviewing the Rationality of Multiple Choice Question Answering for the Evaluation of Large Language Models
 
 ## Links
-- https://arxiv.org/abs/2402.01349
-- https://arxiv.org/pdf/2402.01349
+- <https://arxiv.org/abs/2402.01349>
+- <https://arxiv.org/pdf/2402.01349>
 
 ## Summary in Japanese
-### Beyond the Answers: Reviewing the Rationality of Multiple Choice Question Answering for the Evaluation of Large Language Models
-
-### 目次
-1. [序論](#序論)
-2. [背景](#背景)
-3. [研究目的](#研究目的)
-4. [実験と結果](#実験と結果)
-5. [考察](#考察)
-6. [結論](#結論)
-
 ### 序論
 本論文では、大規模言語モデル（LLM）の評価方法として多肢選択質問応答（MCQA）の妥当性を検討します。特に、LLMが質問の意味を真に理解しているかどうかを評価するための方法について議論します。
 

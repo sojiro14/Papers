@@ -1,21 +1,15 @@
+---
+title: Don't Make Your LLM an Evaluation Benchmark Cheater
+---
+
 # Title
 Don't Make Your LLM an Evaluation Benchmark Cheater
 
 ## Links
-- https://arxiv.org/abs/2311.01964
-- https://arxiv.org/pdf/2311.01964
+- <https://arxiv.org/abs/2311.01964>
+- <https://arxiv.org/pdf/2311.01964>
 
 ## Summary in Japanses
-### Don’t Make Your LLM an Evaluation Benchmark Cheater
-
-### 目次
-1. [序論](#序論)
-2. [評価ベンチマークの問題](#評価ベンチマークの問題)
-3. [ベンチマーク漏洩の影響](#ベンチマーク漏洩の影響)
-4. [実験と結果](#実験と結果)
-5. [改善策](#改善策)
-6. [結論](#結論)
-
 ### 序論
 本論文では、大規模言語モデル（LLM）の評価における不適切なベンチマークの使用とその影響について議論します。特に、評価セットに関連するデータがモデル訓練に使用される「ベンチマーク漏洩」の問題に焦点を当てます。
 

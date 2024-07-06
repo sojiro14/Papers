@@ -1,20 +1,15 @@
+---
+title: Textbooks Are All You Need
+---
+
 # Title
 Textbooks Are All You Need
 
 ## Links
-- https://arxiv.org/abs/2306.11644
-- https://arxiv.org/pdf/2306.11644
+- <https://arxiv.org/abs/2306.11644>
+- <https://arxiv.org/pdf/2306.11644>
 
 ## Summary in Japanese
-### Textbooks Are All You Need
-
-### 目次
-1. [序論](#序論)
-2. [研究の目的](#研究の目的)
-3. [方法](#方法)
-4. [結果](#結果)
-5. [結論](#結論)
-
 ### 序論
 本論文では、コード生成に特化した新しい大規模言語モデルphi-1を紹介します。このモデルは、他の競合モデルに比べて大幅に小型化されているにもかかわらず、高い性能を発揮します。
 

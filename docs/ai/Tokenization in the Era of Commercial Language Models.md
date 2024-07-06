@@ -1,20 +1,16 @@
+---
+title: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+---
+
 # Title
 Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
 
 ## Links
-- https://arxiv.org/abs/2305.13707
-- https://arxiv.org/pdf/2305.13707
+- <https://arxiv.org/abs/2305.13707>
+- <https://arxiv.org/pdf/2305.13707>
 
 ## Summary in Japanese
 ### すべての言語は同じコストか？商用言語モデル時代のトークナイズ
-
-### 目次
-1. [序論](#序論)
-2. [研究の目的](#研究の目的)
-3. [方法](#方法)
-4. [結果](#結果)
-5. [結論](#結論)
-
 ### 序論
 本論文では、商用言語モデルAPIの使用料金が言語によって異なることを示し、その公平性について分析しています。特に、異なる言語で同じ情報を伝えるために必要なトークン数の違いが料金に与える影響を調査します。
 

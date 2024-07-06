@@ -1,20 +1,16 @@
+---
+title: A Survey on ChatGPT and Beyond
+---
+
 # Title
 Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond
 
 ## Links
-- https://arxiv.org/abs/2304.13712
-- https://arxiv.org/pdf/2304.13712
+- <https://arxiv.org/abs/2304.13712>
+- <https://arxiv.org/pdf/2304.13712>
 
 ## Summary in Japanese
 ### 実践におけるLLMの力を活用する: ChatGPTとその先についての調査
-
-### 目次
-1. [序論](#序論)
-2. [LLMの紹介](#llmの紹介)
-3. [データの重要性](#データの重要性)
-4. [NLPタスクの実践ガイド](#nlpタスクの実践ガイド)
-5. [結論](#結論)
-
 ### 序論
 この論文は、大規模言語モデル（LLM）を実践的に活用するための包括的なガイドです。研究者やエンドユーザーが、LLMを効果的かつ効率的に利用するための実践的な知識と洞察を提供します。
 

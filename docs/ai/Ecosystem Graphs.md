@@ -1,21 +1,15 @@
+---
+title: The Social Footprint of Foundation Models
+---
+
 # Title
 Ecosystem Graphs: The Social Footprint of Foundation Models
 
 ## Links
-- https://arxiv.org/abs/2303.15772
-- https://arxiv.org/pdf/2303.15772
+- <https://arxiv.org/abs/2303.15772>
+- <https://arxiv.org/pdf/2303.15772>
 
 ## Summary in Japanese
-### Ecosystem Graphs: The Social Footprint of Foundation Models
-
-### 目次
-1. [序論](#序論)
-2. [背景](#背景)
-3. [Ecosystem Graphsの提案](#ecosystem-graphsの提案)
-4. [実験と結果](#実験と結果)
-5. [考察](#考察)
-6. [結論](#結論)
-
 ### 序論
 この論文は、基礎モデル（Foundation Models, FM）が社会に与える影響を評価するための「Ecosystem Graphs」という新しいフレームワークを提案します。特に、ChatGPTやStable Diffusionなどのモデルがどのように利用され、影響を与えているかを可視化します。
 

@@ -1,23 +1,15 @@
+---
+title: Attention Is All You Need
+---
+
 # Title
 Attention Is All You Need
 
 ## Links
-- https://arxiv.org/abs/1706.03762
-- https://arxiv.org/pdf/1706.03762
+- <https://arxiv.org/abs/1706.03762>
+- <https://arxiv.org/pdf/1706.03762>
 
 ## Summary in Japanese
-### Attention Is All You Need
-
-### 目次
-1. [序論](#序論)
-2. [背景](#背景)
-3. [モデルアーキテクチャ](#モデルアーキテクチャ)
-   - [エンコーダとデコーダ](#エンコーダとデコーダ)
-   - [アテンションメカニズム](#アテンションメカニズム)
-4. [訓練方法](#訓練方法)
-5. [結果](#結果)
-6. [結論](#結論)
-
 ### 序論
 この論文では、従来のリカレントニューラルネットワーク（RNN）や畳み込みニューラルネットワーク（CNN）を排除し、セルフアテンション機構（Self-Attention）のみを使用した新しいネットワークアーキテクチャ「Transformer」を提案します。
 

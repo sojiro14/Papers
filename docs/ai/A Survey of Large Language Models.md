@@ -1,22 +1,17 @@
+---
+title: A Survey of Large Language Models
+---
+
 # Title
 A Survey of Large Language Models
 
 ## Links
-- https://arxiv.org/abs/2303.18223v10
-- https://arxiv.org/pdf/2303.18223v10
-- https://ar5iv.labs.arxiv.org/html/2303.18223
+- <https://arxiv.org/abs/2303.18223v10>
+- <https://arxiv.org/pdf/2303.18223v10>
+- <https://ar5iv.labs.arxiv.org/html/2303.18223>
 
 ## Summary in Japanese
 ### 大規模言語モデルの調査
-
-### 目次
-1. [序論](#序論)
-2. [大規模言語モデルとは](#大規模言語モデルとは)
-3. [進化の過程](#進化の過程)
-4. [大規模言語モデルの特徴](#大規模言語モデルの特徴)
-5. [研究の課題](#研究の課題)
-6. [結論](#結論)
-
 ### 序論
 本論文は、大規模言語モデル（LLM）の発展とその現状を包括的に調査し、研究者がLLMの理解と利用を深めるための基礎を提供することを目的としています。
 

@@ -1,25 +1,15 @@
+---
+title: Mapping the Increasing Use of LLMs in Scientific Papers
+---
+
 # Title
 Mapping the Increasing Use of LLMs in Scientific Papers
 
 ## Links
-- https://arxiv.org/abs/2404.01268
-- https://arxiv.org/pdf/2404.01268
+- <https://arxiv.org/abs/2404.01268>
+- <https://arxiv.org/pdf/2404.01268>
 
 ## Summay in Japanese
-### Mapping the Increasing Use of LLMs in Scientific Papers
-
-### 目次
-1. [序論](#序論)
-2. [背景](#背景)
-3. [研究目的](#研究目的)
-4. [実験と結果](#実験と結果)
-   - [AIによる文章の修正割合の推移](#aiによる文章の修正割合の推移)
-   - [プレプリント投稿頻度との関連性](#プレプリント投稿頻度との関連性)
-   - [論文の類似性とAI使用の関連性](#論文の類似性とai使用の関連性)
-   - [論文の長さとAI使用の関連性](#論文の長さとai使用の関連性)
-5. [考察](#考察)
-6. [結論](#結論)
-
 ### 序論
 この論文では、大規模言語モデル（LLM）が学術論文に与える影響を評価し、ChatGPTなどのLLMがどの程度論文作成に使用されているかを定量化することを目的としています。
 

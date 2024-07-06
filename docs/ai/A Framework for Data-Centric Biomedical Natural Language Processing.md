@@ -1,20 +1,16 @@
+---
+title: A Framework for Data-Centric Biomedical Natural Language Processing
+---
+
 # Title
 BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing
 
 ## Links
-- https://arxiv.org/abs/2206.15076
-- https://arxiv.org/pdf/2206.15076
+- <https://arxiv.org/abs/2206.15076>
+- <https://arxiv.org/pdf/2206.15076>
 
 ## Summary in Japanese
 ### BIGBIO: データ中心の生物医学自然言語処理のためのフレームワーク
-
-### 目次
-1. [序論](#序論)
-2. [データ中心の機械学習](#データ中心の機械学習)
-3. [BIGBIOフレームワーク](#bigbioフレームワーク)
-4. [実験と結果](#実験と結果)
-5. [結論](#結論)
-
 ### 序論
 この論文では、データ中心のアプローチに基づいた生物医学自然言語処理（BioNLP）のフレームワーク「BIGBIO」を紹介します。データの質と多様性がBioNLPモデルの性能に与える影響を強調し、最適なデータセットの構築と管理方法を提案します。
 

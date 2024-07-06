@@ -1,21 +1,16 @@
+---
+title: An Evolutionary Tree and Graph for 15,821 Large Language Models
+---
+
 # Title
 On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large Language Models
 
 ## Links
-- https://arxiv.org/abs/2307.09793
-- https://arxiv.org/pdf/2307.09793
+- <https://arxiv.org/abs/2307.09793>
+- <https://arxiv.org/pdf/2307.09793>
 
 ## Summary in Japanese
 ### LLMの起源：15,821の大規模言語モデルの進化的ツリーとグラフ
-
-### 目次
-1. [序論](#序論)
-2. [研究の背景](#研究の背景)
-3. [方法](#方法)
-4. [結果](#結果)
-5. [結論](#結論)
-6. [補足情報](#補足情報)
-
 ### 序論
 本論文は、大規模言語モデル（LLM）の進化的な関係を明らかにすることを目的としています。特に、2022年以降のLLMの急速な発展とその多様性を体系的に理解するための研究です。
 
