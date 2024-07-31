@@ -1,5 +1,8 @@
 ---
 title: Language models generalize beyond natural proteins
+date: 2022-12-22
+comments: true
+categories: [Computer Science, Computation and Language, Synthetic Biology]
 ---
 
 # Title

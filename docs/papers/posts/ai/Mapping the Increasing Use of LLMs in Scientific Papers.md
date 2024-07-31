@@ -1,5 +1,8 @@
 ---
 title: Mapping the Increasing Use of LLMs in Scientific Papers
+date: 2024-04-01
+comments: true
+categories: [Computer Science, Computation and Language]
 ---
 
 # Title

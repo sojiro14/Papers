@@ -1,5 +1,8 @@
 ---
 title: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+date: 2023-05-23
+comments: true
+categories: [Computer Science,  Computation and Language]
 ---
 
 # Title

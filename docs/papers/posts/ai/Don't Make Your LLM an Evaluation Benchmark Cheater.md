@@ -1,5 +1,8 @@
 ---
 title: Don't Make Your LLM an Evaluation Benchmark Cheater
+date: 2023-11-03
+comments: true
+categories: [Computer Science, Computation and Language]
 ---
 
 # Title

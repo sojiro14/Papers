@@ -1,5 +1,8 @@
 ---
 title: Precise Zero-Shot Dense Retrieval without Relevance Labels
+date: 2022-12-20
+comments: true
+categories: [Computer Science,  Information Retrieval]
 ---
 
 # Title

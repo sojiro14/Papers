@@ -1,5 +1,8 @@
 ---
 title: Attention Is All You Need
+date: 2023-08-02
+comments: true
+categories: [Computer Science, Computation and Language]
 ---
 
 # Title

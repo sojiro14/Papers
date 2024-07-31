@@ -1,5 +1,8 @@
 ---
 title: A Visual Metaphor for Stratified Evaluation of Large Language Models
+date: 2023-10-12
+comments: true
+categories: [Computer Science, Computation and Language]
 ---
 
 # Title
