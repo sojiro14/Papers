@@ -1,5 +1,8 @@
 ---
 title: Learn From Model Beyond Fine-Tuning
+date: 2023-10-12
+comments: true
+categories: [Computer Science, Artificial Intelligence]
 ---
 
 # Title

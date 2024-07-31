@@ -1,5 +1,8 @@
 ---
 title: Training Compute-Optimal Large Language Models
+date: 2022-03-29
+comments: true
+categories: [Computer Science,  Computation and Language]
 ---
 
 # Title

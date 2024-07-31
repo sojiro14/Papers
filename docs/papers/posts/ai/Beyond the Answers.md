@@ -1,5 +1,8 @@
 ---
 title: Reviewing the Rationality of Multiple Choice Question Answering for the Evaluation of Large Language Models
+date: 2024-05-30
+comments: true
+categories: [Computer Science, Computation and Language]
 ---
 
 # Title

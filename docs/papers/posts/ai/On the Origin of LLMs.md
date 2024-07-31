@@ -1,5 +1,8 @@
 ---
 title: An Evolutionary Tree and Graph for 15,821 Large Language Models
+date: 2023-07-19
+comments: true
+categories: [Computer Science, Digital Libraries]
 ---
 
 # Title

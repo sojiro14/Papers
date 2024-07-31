@@ -1,5 +1,8 @@
 ---
 title: Textbooks Are All You Need
+date: 2023-10-02
+comments: true
+categories: [Computer Science,  Computation and Language]
 ---
 
 # Title

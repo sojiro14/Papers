@@ -1,5 +1,8 @@
 ---
 title: The Social Footprint of Foundation Models
+date: 2023-03-28
+comments: true
+categories: [Computer Science, Machine Learning]
 ---
 
 # Title
