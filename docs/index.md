@@ -2,7 +2,7 @@
 ## Sojiro's Tech Playground 🔧
 Sojiro's Blog は [@sojiro14](https://x.com/sojiro14) が趣味で試した技術や気になった論文のメモを書き留める場所です。
 
-## 🛠️ [Blog](/blog/)
+## 🛠️ [Blog](../blog/)
 日々の開発で試したコードや、新しい技術に触れたときの感想をありのままに綴っています。誰かの学びのきっかけになれば嬉しいです。
 
 ## 📄 [Paper Summaries](/Papers/)

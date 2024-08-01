@@ -24,7 +24,7 @@ theme:
         name: Switch to system preference
 nav:
   - index.md
-  - Blog: blog/
+  - Blog: ../blog/
   - Paper Summaries:
     - papers/index.md
 plugins:
