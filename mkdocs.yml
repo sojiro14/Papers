@@ -26,12 +26,12 @@ nav:
   - index.md
   - Blog: ../blog/
   - Paper Summaries:
-    - papers/index.md
+    - summaries/index.md
 plugins:
   - search
   - blog:
       enabled: true
-      blog_dir: papers
+      blog_dir: summaries
       blog_toc: false
       post_dir: "{blog}/posts"
       post_url_max_categories: 1
